@@ -37,7 +37,7 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title="e-commerce website"
-              description="e-commerce website for phones with add to cart using Reactjs,HTML5,CSS3,javascript,React Hooks, Bootstrap,json file"
+              description="e-commerce website for phones its like a phone store with add to cart using Reactjs, HTML5, CSS3, javascript, React Hooks, Bootstrap and json file type"
               ghLink="https://github.com/ayoubstifi/react-phone-store"
               demoLink="https://phone-store00.netlify.app/"
             />
