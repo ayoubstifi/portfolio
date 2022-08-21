@@ -37,7 +37,7 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title="e-commerce website"
-              description="e-commerce website using react "
+              description="e-commerce website for phones with add to cart using Reactjs,HTML5,CSS3,javascript,React Hooks, Bootstrap,json file"
               ghLink="https://github.com/ayoubstifi/react-phone-store"
               demoLink="https://phone-store00.netlify.app/"
             />
@@ -59,7 +59,7 @@ function Projects() {
               imgPath={leaf}
               isBlog={false}
               title=" Breaking-bad-character-Browser "
-              description=" Breaking-bad-character-Browser using react "
+              description=" Breaking-bad-character-Browser using Reactjs "
               ghLink="https://github.com/ayoubstifi/Breaking-bad-character-Browser"
               demoLink="https://breaking-bad-character-browser.netlify.app/"
             />
